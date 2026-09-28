@@ -1,13 +1,13 @@
-![Glow — El origen de una identidad contextual.](assets/hero.svg)
+![Glow — El origen visual de Nhur.](assets/hero.svg)
 
 # Glow
 
-**El origen de una identidad contextual.**
+**El origen visual de Nhur.**
 
-Una exploración de plataforma social inmersiva que estudia comunidades temáticas, identidad por contexto y contenido modular.
+Glow fue el nombre anterior del proyecto social que evoluciona como Nhur. Este caso conserva la exploración de comunidades e identidad contextual, mientras Glow continúa dentro de Nhur como parte de su estética y lenguaje visual.
 
 **Stack:** Flutter · Dart  
-**Estado:** Exploración histórica
+**Estado:** Origen de Nhur · Identidad visual integrada
 
 [Portfolio](https://github.com/calinrus-dev/portfolio) · [Experiencia](docs/EXPERIENCIA.md) · [Componentes](docs/COMPONENTES.md) · [Diseño técnico](docs/ARQUITECTURA.md) · [Demostraciones](docs/DEMOSTRACIONES.md) · [Estado](docs/ESTADO.md)
 

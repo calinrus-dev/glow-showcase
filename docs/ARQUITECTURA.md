@@ -4,7 +4,7 @@
 
 ## Contexto
 
-Una exploración de plataforma social inmersiva que estudia comunidades temáticas, identidad por contexto y contenido modular.
+Glow fue el nombre anterior del proyecto social que evoluciona como Nhur. Este caso conserva la exploración de comunidades e identidad contextual, mientras Glow continúa dentro de Nhur como parte de su estética y lenguaje visual.
 
 **Tecnologías asociadas al proyecto:** Flutter · Dart.
 

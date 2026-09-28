@@ -2,7 +2,7 @@
 
 [← Inicio](../README.md)
 
-**Estado publicado:** Exploración histórica.  
+**Estado publicado:** Origen de Nhur · Identidad visual integrada.  
 **Fecha de revisión:** 28 de septiembre de 2026.
 
 ## Qué se ha comprobado
